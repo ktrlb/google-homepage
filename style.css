@@ -1,1 +1,14 @@
-background-color: red;
+header {
+	height: 100px;
+	padding-top:31px;
+}
+
+footer {
+	height: 100px;
+	padding-bottom: 31px;
+}
+
+.main_box {
+	vertical-align:center;
+	text-align:center;
+}
